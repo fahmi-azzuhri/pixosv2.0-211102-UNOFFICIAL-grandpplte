@@ -1,0 +1,5 @@
+Welcome to PixOs! i hope you enjoy the rom.
+
+The rom is based on motorola roms, AOSP (android open source project) roms, PurifyOs and google pixel phones.
+
+if you found any bug, tell me on my channel or on my whatsapp number: +55 31 975103023

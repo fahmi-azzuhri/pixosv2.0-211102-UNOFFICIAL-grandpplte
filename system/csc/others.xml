@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeauture>
+  <Version>ED0001</Version>
+  <Country>UNITED ARAB EMIRAT</Country>
+  <CountryISO>AE</CountryISO>
+  <SalesCode>XSG</SalesCode>
+  <FeatureSet>
+    <CscFeature_Framework_EnableBidirection>TRUE</CscFeature_Framework_EnableBidirection>
+    <CscFeature_SIP_EnablePreferredEnglishTypeAsUS>TRUE</CscFeature_SIP_EnablePreferredEnglishTypeAsUS>
+    <CscFeature_Sip_LangQwertyType4HwKey>HW_KEYBOARD_COUNTRY_TYPE_ARAB_QWERTY</CscFeature_Sip_LangQwertyType4HwKey>
+    <CscFeature_Clock_DisableIsraelCountry>TRUE</CscFeature_Clock_DisableIsraelCountry>
+    <CscFeature_Email_AlignmentForRTL>TRUE</CscFeature_Email_AlignmentForRTL>
+    <CscFeature_Email_DisableFontAttributeDuringComposing>Bold, Italic</CscFeature_Email_DisableFontAttributeDuringComposing>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>FALSE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_RIL_HandleInvalidTimezonOffset>TRUE</CscFeature_RIL_HandleInvalidTimezonOffset>
+    <CscFeature_Web_DisableMostVisitedHomepage>TRUE</CscFeature_Web_DisableMostVisitedHomepage>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>TRUE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_Calendar_EnableLocalHolidayDisplay>ARABIC</CscFeature_Calendar_EnableLocalHolidayDisplay>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+	<CscFeature_Web_ConfigNewTab>Homepage</CscFeature_Web_ConfigNewTab>
+	<CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+	<CscFeature_VT_ConfigPrivacyPolicy>record</CscFeature_VT_ConfigPrivacyPolicy>
+	<CscFeature_Weather_SupportCheckingDisputeArea>TRUE</CscFeature_Weather_SupportCheckingDisputeArea>
+	<CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+	<CscFeature_Setting_CustNetworkSelMenu4>LTEONLY</CscFeature_Setting_CustNetworkSelMenu4>
+    <!-- Networkmode for RJIL -->
+    <CscFeature_RIL_SupportVolteVtCall>TRUE</CscFeature_RIL_SupportVolteVtCall>
+    <CscFeature_RIL_SupportImsService>TRUE</CscFeature_RIL_SupportImsService>
+    <CscFeature_RIL_SupportVolte>TRUE</CscFeature_RIL_SupportVolte>
+    <CscFeature_RIL_SupportSrvcc>TRUE</CscFeature_RIL_SupportSrvcc>
+    <CscFeature_RIL_SrvccRel>10</CscFeature_RIL_SrvccRel>
+    <CscFeature_RIL_SetVolteAudioPath>TRUE</CscFeature_RIL_SetVolteAudioPath>
+    <CscFeature_RIL_SsRoutingPolicy>ims</CscFeature_RIL_SsRoutingPolicy>
+    <CscFeature_RIL_UssdRoutingPolicy>ims</CscFeature_RIL_UssdRoutingPolicy>
+    <CscFeature_RIL_E911RoutingPolicy>fullsrchmdm</CscFeature_RIL_E911RoutingPolicy>
+    <CscFeature_RIL_IgnoreNitzNetworkName>TRUE</CscFeature_RIL_IgnoreNitzNetworkName>
+    <CscFeature_Setting_HideApnList>ims,IMS</CscFeature_Setting_HideApnList>
+    <CscFeature_Setting_ReplaceLabel4DualSim>Smart dual SIM</CscFeature_Setting_ReplaceLabel4DualSim>
+	<CscFeature_Setting_IncludeApn4SwUpdate>true</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_RIL_SupportEfd>TRUE</CscFeature_RIL_SupportEfd>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>INU_4G</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>INS_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_ConfigOpStyleForVolte>REMOVE_VOLTE_OUTGOING_SETTING,INS_VOLTE</CscFeature_VoiceCall_ConfigOpStyleForVolte>
+    <CscFeature_VT_SupportMerge>TRUE</CscFeature_VT_SupportMerge>
+
+	<!-- Clock -->
+	<CscFeature_Clock_DisableAccWeatherInfo>FALSE</CscFeature_Clock_DisableAccWeatherInfo>
+	<CscFeature_Clock_DisableGoogleLocationInfo>FALSE</CscFeature_Clock_DisableGoogleLocationInfo>
+	<CscFeature_Clock_EnableAutoPowerOnOffMenu>TRUE</CscFeature_Clock_EnableAutoPowerOnOffMenu>
+	<CscFeature_Clock_EnableMenuAlarmAlertDuringSilentMode>TRUE</CscFeature_Clock_EnableMenuAlarmAlertDuringSilentMode>
+    <CscFeature_Clock_EnableAlarmVolumeSpr>true</CscFeature_Clock_EnableAlarmVolumeSpr>
+    <CscFeature_Clock_SupportAlarmOptionMenuForWorkingDay>TRUE</CscFeature_Clock_SupportAlarmOptionMenuForWorkingDay>
+    <CscFeature_Clock_ExclusiveEnablingAutoPowerSetting>TRUE</CscFeature_Clock_ExclusiveEnablingAutoPowerSetting>
+
+	<!-- AOD -->	
+    <CscFeature_AOD_ConfigDefStatus>OFF</CscFeature_AOD_ConfigDefStatus>
+    <CscFeature_AOD_ConfigDefaultClockStyle>1</CscFeature_AOD_ConfigDefaultClockStyle>
+		
+	<!-- Calendar -->
+	<CscFeature_Calendar_EnableLunar>TRUE</CscFeature_Calendar_EnableLunar>
+	<CscFeature_Calendar_EnableSDCardImport>TRUE</CscFeature_Calendar_EnableSDCardImport>
+	<CscFeature_Calendar_DisableGoogleMapIntegration>FALSE</CscFeature_Calendar_DisableGoogleMapIntegration>
+	<CscFeature_Calendar_EnableLocalHolidayDisplay>VI</CscFeature_Calendar_EnableLocalHolidayDisplay> 
+    <CscFeature_Calender_EnableWeatherInfo>true</CscFeature_Calender_EnableWeatherInfo>
+    <CscFeature_Calendar_DisableKies>true</CscFeature_Calendar_DisableKies>
+    <CscFeature_Calendar_EnableShiftedWeekNumber>TRUE</CscFeature_Calendar_EnableShiftedWeekNumber>
+    <CscFeature_Calendar_SetColorOfDays>XXXXXXX</CscFeature_Calendar_SetColorOfDays>
+
+	<!-- Camera -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_CameraFlicker>60hz</CscFeature_Camera_CameraFlicker>
+	<CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+	<CscFeature_Camera_EnableSmsNotiPopup>TRUE</CscFeature_Camera_EnableSmsNotiPopup>
+	<CscFeature_Camera_CamcorderDoNotPauseMusic>TRUE</CscFeature_Camera_CamcorderDoNotPauseMusic>
+    <CscFeature_Camcorder_DoNotPauseMusic>true</CscFeature_Camcorder_DoNotPauseMusic>
+	
+   	<!-- Contact -->
+    <CscFeature_Contact_EnableIPCall>TRUE</CscFeature_Contact_EnableIPCall>
+	<CscFeature_Contact_DisableMessageLog>TRUE</CscFeature_Contact_DisableMessageLog>
+    <CscFeature_Contact_EnableCallButtonInList>true</CscFeature_Contact_EnableCallButtonInList>	
+	<CscFeature_Contact_DisableAccountIconsInContactList>FALSE</CscFeature_Contact_DisableAccountIconsInContactList>
+	<CscFeature_Contact_UseSeparateAddressField>TRUE</CscFeature_Contact_UseSeparateAddressField>
+	<CscFeature_Contact_DisableMergeWithGoogle>FALSE</CscFeature_Contact_DisableMergeWithGoogle>
+	<CscFeature_Contact_DisableGoogleTalk>FALSE</CscFeature_Contact_DisableGoogleTalk>
+	<CscFeature_Contact_UseUniNameField>TRUE</CscFeature_Contact_UseUniNameField>
+	<CscFeature_Contact_AddPreloadedSpeedDialAs>None,0,None,None</CscFeature_Contact_AddPreloadedSpeedDialAs>
+	<CscFeature_Contact_EnableMenuStorageStatus>TRUE</CscFeature_Contact_EnableMenuStorageStatus>
+	<CscFeature_Contact_EnableCopyToDialer>TRUE</CscFeature_Contact_EnableCopyToDialer>
+	<CscFeature_Contact_KeepUserProperty>ViewBy</CscFeature_Contact_KeepUserProperty>
+	<CscFeature_Contact_ConfigZipCodeInputType>numeric</CscFeature_Contact_ConfigZipCodeInputType>
+	<CscFeature_Contact_ConfigDisplayStorageType>ALL</CscFeature_Contact_ConfigDisplayStorageType>
+	<CscFeature_Contact_EnableClassifyContactsOnMap>TRUE</CscFeature_Contact_EnableClassifyContactsOnMap>
+	<CscFeature_Contact_DisableTriggerInternetCall>TRUE</CscFeature_Contact_DisableTriggerInternetCall>
+	<CscFeature_Contact_EnableStrokeSortList>TRUE</CscFeature_Contact_EnableStrokeSortList>
+	<CscFeature_Contact_EnableBPMFSortList>TRUE</CscFeature_Contact_EnableBPMFSortList>
+    <CscFeature_Contact_SetLinkCountMaxAs>1000</CscFeature_Contact_SetLinkCountMaxAs>
+    <CscFeature_Contact_LimitNameLength>1280</CscFeature_Contact_LimitNameLength>
+    <CscFeature_Contact_ExportAllNumberToSIM>true</CscFeature_Contact_ExportAllNumberToSIM>	
+	<CscFeature_Contact_ConfigAddressField>formatted</CscFeature_Contact_ConfigAddressField>
+    <CscFeature_Contact_ConfigEntryPhoneApp>Dial</CscFeature_Contact_ConfigEntryPhoneApp>
+    <CscFeature_Contact_EnableExtraCallServiceMenu>TRUE</CscFeature_Contact_EnableExtraCallServiceMenu>
+    <CscFeature_Contact_EnableLogIconForVoiceRecord>TRUE</CscFeature_Contact_EnableLogIconForVoiceRecord>
+	<CscFeature_Contact_IgnoreSpaceDuringSearch>TRUE</CscFeature_Contact_IgnoreSpaceDuringSearch>		
+	<CscFeature_Contact_ANRConfig>1</CscFeature_Contact_ANRConfig>
+    <CscFeature_Contact_ConfigDefaultViewBy>AllCalls</CscFeature_Contact_ConfigDefaultViewBy>
+    <CscFeature_Contact_DisableSipAddress>FALSE</CscFeature_Contact_DisableSipAddress>
+    <CscFeature_Contact_ExtendSpeedDialTo100>TRUE</CscFeature_Contact_ExtendSpeedDialTo100>
+    <CscFeature_Contact_SupportWhitePages>TRUE</CscFeature_Contact_SupportWhitePages>	
+    <CscFeature_Contact_ConfigDialShortNumSharp>enable</CscFeature_Contact_ConfigDialShortNumSharp>
+    <CscFeature_Contact_ConfigForYellowPage>SHOW</CscFeature_Contact_ConfigForYellowPage>
+    <CscFeature_Contact_DisableMenuNameOrder>FALSE</CscFeature_Contact_DisableMenuNameOrder>
+    <CscFeature_Contact_EnableCallerIdSearch4Korea>TRUE</CscFeature_Contact_EnableCallerIdSearch4Korea>
+    <CscFeature_Contact_EnableExceptionHandling4Corea>TRUE</CscFeature_Contact_EnableExceptionHandling4Corea>
+
+	<!-- Framework -->
+    <CscFeature_Framework_SupportDataModeSwitchGlobalAction>true</CscFeature_Framework_SupportDataModeSwitchGlobalAction>
+    <CscFeature_Framework_EnableBidirection>TRUE</CscFeature_Framework_EnableBidirection>
+    <CscFeature_Framework_EnableThaiVietReshaping>TRUE</CscFeature_Framework_EnableThaiVietReshaping>
+	<CscFeature_Framework_SupportRebootWithSafemode>TRUE</CscFeature_Framework_SupportRebootWithSafemode>	
+    <CscFeature_Framework_ConfigBlockNotiOperation>Longpress</CscFeature_Framework_ConfigBlockNotiOperation>
+    <CscFeature_Framework_ConfigDefTrayPosition>LEFT</CscFeature_Framework_ConfigDefTrayPosition>
+    <CscFeature_Framework_DisableConfirmGlobalAction>TRUE</CscFeature_Framework_DisableConfirmGlobalAction>
+    <CscFeature_Framework_SupportResolverActivityGuide>TRUE</CscFeature_Framework_SupportResolverActivityGuide>
+    <CscFeature_Framework_ConfigLabelForDefTheme>TouchWiz</CscFeature_Framework_ConfigLabelForDefTheme>
+    <CscFeature_Framework_EnableLinuxCommonApi4>FALSE</CscFeature_Framework_EnableLinuxCommonApi4>
+    <CscFeature_Framework_SupportForceRestartGlobalAction>TRUE</CscFeature_Framework_SupportForceRestartGlobalAction>
+
+	<!-- GPS -->
+    <CscFeature_GPS_SupportLppCpOnly>TRUE</CscFeature_GPS_SupportLppCpOnly>
+    <CscFeature_GPS_SupportPrivacyLock>TRUE</CscFeature_GPS_SupportPrivacyLock>
+    <CscFeature_GPS_ConfigAgpsMode>7</CscFeature_GPS_ConfigAgpsMode>
+    <CscFeature_GPS_ConfigLppProfile>2</CscFeature_GPS_ConfigLppProfile>
+	<CscFeature_GPS_ConfigAgnssProtocol>2</CscFeature_GPS_ConfigAgnssProtocol>
+    <CscFeature_GPS_ConfigSuplVersion>3</CscFeature_GPS_ConfigSuplVersion>
+    <CscFeature_GPS_SupportAgnss>TRUE</CscFeature_GPS_SupportAgnss>
+    <CscFeature_GPS_SupportGoogleSupl2>TRUE</CscFeature_GPS_SupportGoogleSupl2>
+    <CscFeature_GPS_ConfigAgpsSetting>VI</CscFeature_GPS_ConfigAgpsSetting>
+
+	<!-- Setting -->
+    <CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
+    <CscFeature_Setting_EnableFactoryResetPasswordWhenNoSIM>TRUE</CscFeature_Setting_EnableFactoryResetPasswordWhenNoSIM>
+    <CscFeature_Setting_UseDefaultTtsEngineAs>Google</CscFeature_Setting_UseDefaultTtsEngineAs>
+	<CscFeature_Setting_ConfigActivationModeForPreloadInstaller>TRUE</CscFeature_Setting_ConfigActivationModeForPreloadInstaller>
+	<CscFeature_Settings_Airplane_Wifi_Dependency>TRUE</CscFeature_Settings_Airplane_Wifi_Dependency>
+	<CscFeature_Setting_EnableDataServicePopup>TRUE</CscFeature_Setting_EnableDataServicePopup>
+	<CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+	<CscFeature_Settings_EnableUSM>TRUE</CscFeature_Settings_EnableUSM>
+	<CscFeature_Setting_ShortcutListInLockScreen>Phone,Internet,Camera,New message</CscFeature_Setting_ShortcutListInLockScreen>
+	<CscFeature_Setting_EditOption4ApnType>List</CscFeature_Setting_EditOption4ApnType>
+	<CscFeature_Setting_EnableHwVersionDisplay>TRUE</CscFeature_Setting_EnableHwVersionDisplay>
+	<CscFeature_Setting_EnableMyPhonebookAccount>TRUE</CscFeature_Setting_EnableMyPhonebookAccount>
+	<CscFeature_Setting_EnableSeparateSilentModeFromVolumeControl>TRUE</CscFeature_Setting_EnableSeparateSilentModeFromVolumeControl>
+	<CscFeature_Setting_EnableMenuDownloadContents>TRUE</CscFeature_Setting_EnableMenuDownloadContents>
+	<CscFeature_Setting_DisableMenuSoftwareUpdate>TRUE</CscFeature_Setting_DisableMenuSoftwareUpdate>
+	<CscFeature_Setting_EnableDataRoamingButtonInQuickPanel>TRUE</CscFeature_Setting_EnableDataRoamingButtonInQuickPanel>
+	<CscFeature_Setting_EnableDataRoamingMenuInDetail>TRUE</CscFeature_Setting_EnableDataRoamingMenuInDetail>
+	<CscFeature_Setting_EnableMenuNetworkMode>TRUE</CscFeature_Setting_EnableMenuNetworkMode>
+	<CscFeature_Setting_EnableRoamingMenu>TRUE</CscFeature_Setting_EnableRoamingMenu>
+	<CscFeature_Setting_SkipStepsDuringSamsungSetupWizard>TRUE</CscFeature_Setting_SkipStepsDuringSamsungSetupWizard>
+    <CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>TRUE</CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>
+	<CscFeature_Setting_ReplaceLabel4DualSim>Smart dual SIM</CscFeature_Setting_ReplaceLabel4DualSim>	
+    <CscFeature_Setting_SupportMptcpMenu>TRUE</CscFeature_Setting_SupportMptcpMenu>
+    <CscFeature_Setting_ConfigAccessibilityInHearingAids>1</CscFeature_Setting_ConfigAccessibilityInHearingAids>
+    <CscFeature_Setting_DisableIsraelCountry>TRUE</CscFeature_Setting_DisableIsraelCountry>
+    <CscFeature_Setting_SkipWifiActvDuringSetupWizard>TRUE</CscFeature_Setting_SkipWifiActvDuringSetupWizard>
+    <CscFeature_Setting_SupportHAC>TRUE</CscFeature_Setting_SupportHAC>
+	<CscFeature_Setting_SupportRealTimeNetworkSpeed>TRUE</CscFeature_Setting_SupportRealTimeNetworkSpeed>
+    <CscFeature_SetupWizard_ConfigStepSequenceType>PreloadAlways</CscFeature_SetupWizard_ConfigStepSequenceType>
+    <CscFeature_Setting_EnableEditingIpVersionType>TRUE</CscFeature_Setting_EnableEditingIpVersionType>
+    <CscFeature_Setting_SupportRegulatoryInfo>TRUE</CscFeature_Setting_SupportRegulatoryInfo>
+	
+	<!-- Video -->
+    <CscFeature_Video_BlockNotiSoundDuringStreaming>true</CscFeature_Video_BlockNotiSoundDuringStreaming>
+    <CscFeature_Video_SupportPlayDuringCall>true</CscFeature_Video_SupportPlayDuringCall>
+    <CscFeature_Video_SupportManualBrightness>TRUE</CscFeature_Video_SupportManualBrightness>
+    <CscFeature_Video_SupportSpeedControl>TRUE</CscFeature_Video_SupportSpeedControl>
+    <CscFeature_Video_AddWidgetLayout>true</CscFeature_Video_AddWidgetLayout>
+	
+	<!-- VoiceRecorder -->
+    <CscFeature_VoiceRecorder_SupportShowCallRejectCount>true</CscFeature_VoiceRecorder_SupportShowCallRejectCount>
+	<CscFeature_VoiceRecorder_ConfigNfcMode>CardMode</CscFeature_VoiceRecorder_ConfigNfcMode>
+	
+	<!-- Weather -->
+    <CscFeature_Weather_SupportPromptForLocationAccess>TRUE</CscFeature_Weather_SupportPromptForLocationAccess>
+    <CscFeature_Weather_SupportPromptForDataUsage>TRUE</CscFeature_Weather_SupportPromptForDataUsage>
+    <CscFeature_Weather_ConfigDefRefreshInterval>3</CscFeature_Weather_ConfigDefRefreshInterval>
+    <CscFeature_Weather_ConfigDefTempUnit>0</CscFeature_Weather_ConfigDefTempUnit>	
+	<CscFeature_Weather_SupportCheckingDisputeArea>FALSE</CscFeature_Weather_SupportCheckingDisputeArea>    
+	
+	<!-- MyFiles -->
+    <CscFeature_MyFiles_EnableDirectorySearch>true</CscFeature_MyFiles_EnableDirectorySearch>
+    <CscFeature_MyFiles_SupportApkCategory>true</CscFeature_MyFiles_SupportApkCategory>
+    <CscFeature_MyFiles_SupportPinLock>true</CscFeature_MyFiles_SupportPinLock>
+    <CscFeature_MyFiles_SupportFolderDescription>true</CscFeature_MyFiles_SupportFolderDescription>
+    <CscFeature_MyFiles_SupportRmvbFileFormat>true</CscFeature_MyFiles_SupportRmvbFileFormat>
+	<CscFeature_MyFiles_ConfigDataUsageWarning>TRUE</CscFeature_MyFiles_ConfigDataUsageWarning>
+
+	<!-- Email -->
+	<CscFeature_Email_UseFixedBgColorAsWhite>TRUE</CscFeature_Email_UseFixedBgColorAsWhite>
+	<CscFeature_Email_BackgroundColorWhite>TRUE</CscFeature_Email_BackgroundColorWhite>
+	<CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
+
+	<!-- SystemUI -->
+    <CscFeature_SystemUI_SupportRecentAppProtection>TRUE</CscFeature_SystemUI_SupportRecentAppProtection>
+    <CscFeature_SystemUI_BlockDoubleTapNotiOnLockScreen>TRUE</CscFeature_SystemUI_BlockDoubleTapNotiOnLockScreen>
+    <CscFeature_SystemUI_SupportAssistanceAppChooser>TRUE</CscFeature_SystemUI_SupportAssistanceAppChooser>
+    <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SilentMode,Bluetooth,RotationLock,Flashlight,Location,MobileData,AirplaneMode,PowerSaving,Cellular,DefaultData,Nfc,WifiHotspot,UDS,PowerPlanning,VoLte,UHQ,ColorInversion,DeviceVisibility,DormantMode,Sync,BikeMode,ScreenCapture,SmartStay,WifiCalling,MultiWindow,Toolbox</CscFeature_SystemUI_ConfigDefQuickSettingItem>
+	<CscFeature_SystemUI_ConfigPolicyDisplayOpLogo>BOTH</CscFeature_SystemUI_ConfigPolicyDisplayOpLogo>
+    <CscFeature_SystemUI_ConfigRuleRssiLevel>OneLevelPerSec</CscFeature_SystemUI_ConfigRuleRssiLevel>
+    <CscFeature_SystemUI_DisplayPlmnAtNotificationPanel>TRUE</CscFeature_SystemUI_DisplayPlmnAtNotificationPanel>
+    <CscFeature_SystemUI_ConfigDefStatusSimpleStatusBar>Off</CscFeature_SystemUI_ConfigDefStatusSimpleStatusBar>
+    <CscFeature_SystemUI_ConfigMaxRssiLevel>5</CscFeature_SystemUI_ConfigMaxRssiLevel>
+    <CscFeature_SystemUI_SupportNoSimNotification>TRUE</CscFeature_SystemUI_SupportNoSimNotification>
+    <CscFeature_LockScreen_ConfigDefLcdOnTimeOut>6</CscFeature_LockScreen_ConfigDefLcdOnTimeOut>
+    <CscFeature_LockScreen_ConfigTimeUnlockHelpText>0</CscFeature_LockScreen_ConfigTimeUnlockHelpText>
+    <CscFeature_LockScreen_SupportAutoLockForGear>TRUE</CscFeature_LockScreen_SupportAutoLockForGear>
+    <CscFeature_LockScreen_ConfigCarrierSecurityPolicy>UseSamsungAccountAuth</CscFeature_LockScreen_ConfigCarrierSecurityPolicy>
+	<CscFeature_LockScreen_ConfigEmergencyCallPolicy>MoveToCallList</CscFeature_LockScreen_ConfigEmergencyCallPolicy>
+    <CscFeature_Common_ConfigYuva>powerplanning|reserve|zeroforward|mileage|dashboard</CscFeature_Common_ConfigYuva>
+
+	
+	<!-- Common -->
+	<CscFeature_Common_ConfigEmergencyModePackages>com.ipsec.service,com.sec.android.providers.mapcon,com.samsung.inputmethod,com.samsung.android.applock</CscFeature_Common_ConfigEmergencyModePackages>
+	<CscFeature_Common_DisablePhoneNumberFormatting>FALSE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_Common_Vibration4NotiDuringCall>true</CscFeature_Common_Vibration4NotiDuringCall>
+	<CscFeature_Common_DisableGoogle>FALSE</CscFeature_Common_DisableGoogle>
+	<CscFeature_Common_EulaVersion>1</CscFeature_Common_EulaVersion>	
+    <CscFeature_Common_EnableOneTouchReport>TRUE</CscFeature_Common_EnableOneTouchReport>
+    <CscFeature_Common_ReplaceSecBrandAsGalaxy>FALSE</CscFeature_Common_ReplaceSecBrandAsGalaxy>
+    <CscFeature_Common_ConfigOperatorDrmReq>blockWMDRM,BlockPlayReadyDRM</CscFeature_Common_ConfigOperatorDrmReq>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_SupportDLNA>DMC_ONLY</CscFeature_Common_SupportDLNA>
+    <CscFeature_Common_SupportDeviceReporting>TRUE</CscFeature_Common_SupportDeviceReporting>
+    <CscFeature_Common_SupportMinimizedSip>TRUE</CscFeature_Common_SupportMinimizedSip>
+    <CscFeature_Common_SupportNextRadio>TRUE</CscFeature_Common_SupportNextRadio>
+    <CscFeature_Common_SweepOperationArea>ExcludeAvatar</CscFeature_Common_SweepOperationArea>
+    <CscFeature_Common_EnableVIPMode>TRUE</CscFeature_Common_EnableVIPMode>
+    <CscFeature_Common_SupportWechatSightMode>TRUE</CscFeature_Common_SupportWechatSightMode>
+    <CscFeature_Common_ConfigCarrierMatchingForMultiSim>CarrierMatching</CscFeature_Common_ConfigCarrierMatchingForMultiSim>
+    <CscFeature_Common_EnableAirMessage>TRUE</CscFeature_Common_EnableAirMessage>
+	<CscFeature_Common_ConfigBikeMode>bikemode|globalaction</CscFeature_Common_ConfigBikeMode>
+	<CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart|networkpowersaving|applock|trafficmanager|notificationmanager|applicationpermission|DISABLEAUTORESTART</CscFeature_SmartManager_ConfigSubFeatures>
+	</FeatureSet>
+	</SamsungMobileFeauture>

@@ -1,0 +1,6 @@
+                                   PixOs v2.0
+                                    May 2020
+
+Do not edit the rom and post it again without my permission.
+
+PixOs is an open rom (like AOSP) for people who want to modify and use it as a base to create another rom, but don't do this without contacting me first on youtube or, preferably, whatsapp.
